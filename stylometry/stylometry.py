@@ -166,7 +166,7 @@ def sentence_statistics(text):
 
 # helper in vocab_richness
 def get_common_words():
-    with open('../data/common-words.txt', 'r') as file:
+    with open('./common-words.txt', 'r') as file:
         word_to_freq = {}
         lines = file.readlines()
         for line in lines:
