@@ -7323,13 +7323,6 @@ problem-2439.txt_pair_3
 problem-2439.txt_pair_4
 problem-2439.txt_pair_5
 problem-2439.txt_pair_6
-problem-244.txt_pair_1
-problem-244.txt_pair_2
-problem-244.txt_pair_3
-problem-244.txt_pair_4
-problem-244.txt_pair_5
-problem-244.txt_pair_6
-problem-244.txt_pair_7
 problem-2440.txt_pair_1
 problem-2440.txt_pair_2
 problem-2440.txt_pair_3
@@ -17248,13 +17241,6 @@ problem-637.txt_pair_5
 problem-638.txt_pair_1
 problem-638.txt_pair_2
 problem-638.txt_pair_3
-problem-639.txt_pair_1
-problem-639.txt_pair_2
-problem-639.txt_pair_3
-problem-639.txt_pair_4
-problem-639.txt_pair_5
-problem-639.txt_pair_6
-problem-639.txt_pair_7
 problem-64.txt_pair_1
 problem-64.txt_pair_2
 problem-64.txt_pair_3
